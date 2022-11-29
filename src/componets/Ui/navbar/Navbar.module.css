@@ -1,0 +1,20 @@
+.myNavbar__wrapper {
+    height: 50px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    background: lightgray;
+    justify-content: center;
+}
+.myNavbar {
+    width: 100%;
+    max-width: 800px;
+    display: flex;
+    align-items: center;
+    padding: 0 15px;
+    background: lightgray;
+    justify-content: flex-end;
+}
+.myNavbar__items {
+    margin-left: 20px;
+}
